@@ -7,4 +7,4 @@ I managed to not public the source code anymore, for further reference you can l
 
 http://nguyenph88.blogspot.com/2014/04/18-xpassword-scraper.html
 
-Main App : http://xpass.herokuapp.com/
+Main App : http://xpass.herokuapp.com/   
